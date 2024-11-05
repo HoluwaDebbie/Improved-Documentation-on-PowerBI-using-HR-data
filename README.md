@@ -57,6 +57,7 @@ For this project, I leveraged the following tools:
 ### Data Cleaning and Preparation
 
 The dataset was clean and consistent, requiring minimal preprocessing. **Power BI’s column profiling tools** (*Column Quality, Column Distribution, and Column Profile*), was used to ensure that the dataset was free from missing or erroneous values. These tools verified that the data was 100% consistent.
+
 ---
 
 
