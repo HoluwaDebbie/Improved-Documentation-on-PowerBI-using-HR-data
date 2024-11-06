@@ -105,9 +105,9 @@ The HR Data Analysis Tracker was developed using Power BI to provide insights in
 
 Here are screenshots of the Power BI dashboard showcasing the HR Data Analysis Tracker:
 
-![Incubator HR Data Tracker](https://github.com/user-attachments/assets/ac01982e-bee9-4745-9896-d131ac8547c0)
+[Incubator HR Data Tracker](https://github.com/user-attachments/assets/ac01982e-bee9-4745-9896-d131ac8547c0)
 
-![Incubator HR Data Tracker 2](https://github.com/user-attachments/assets/7d9d5adb-4c66-4f55-a346-044f450f10e0)
+[Incubator HR Data Tracker 2](https://github.com/user-attachments/assets/7d9d5adb-4c66-4f55-a346-044f450f10e0)
 
 
 ---
